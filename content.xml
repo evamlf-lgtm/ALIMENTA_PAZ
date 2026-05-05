@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505093010NTXFLN</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505093010HNTFVW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ALIMENTA LA PAZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Hambre, guerra y desigualdad en el mundo actual</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Eva María López Fernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta Situación de Aprendizaje para 1º de Bachillerato en la asignatura de Religión. Se centra en el análisis del hambre en el mundo como consecuencia directa de los conflictos armados, la desigualdad y la pobreza, tomando como referencia la campaña 2026 de Manos Unidas “Declara la guerra al hambre”.
+El alumnado investigará datos reales, reflexionará sobre las causas estructurales del hambre y elaborará productos digitales de sensibilización social. Se pretende desarrollar una ciudadanía crítica y comprometida con los retos globales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777890001043</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mor1swhx-43wr7tj3c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Alimenta la paz: hambre, guerra y desigualdad en el mundo actual. DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alimenta la paz: hambre, guerra y desigualdad en el mundo actual. DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Alimenta la paz: hambre, guerra y desigualdad en el mundo actual. DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1swhx-43wr7tj3c</odePageId>
+      <odeBlockId>block-1777890009976-6jtyjgunt</odeBlockId>
+      <blockName>“Alimenta la paz: hambre, guerra y desigualdad en el mundo actual”</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1swhx-43wr7tj3c</odePageId>
+          <odeBlockId>block-1777890009976-6jtyjgunt</odeBlockId>
+          <odeIdeviceId>idevice-1777890009974-mhwtwp4tz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">DESCRIPCIÓN: Esta Situación de Aprendizaje se centra en el análisis del hambre en el mundo como consecuencia directa de los conflictos armados, la desigualdad y la pobreza, tomando como referencia la campaña 2026 de Manos Unidas “Declara la guerra al hambre”. El alumnado investigará datos reales, reflexionará sobre las causas estructurales del hambre y elaborará productos digitales de sensibilización social. Se pretende desarrollar una ciudadanía crítica y comprometida con los retos globales.</p>
+<p style="text-align: justify;">ETAPA EDUCATIVA Y NIVEL: 1º Bachillerato<br />ÁREAS, MATERIAS, IMPLICADAS:  Geografía, Historia del Mundo Contemporáneo, Lengua Castellana y Literatura, TIC / Digitalización.<br />AGRUPAMIENTOS Y ORGANIZACIÓN ESPACIAL: Aula ordinaria y aula TIC</p>
+<p>Individual → reflexión inicial<br />Parejas → búsqueda de información<br />Grupos cooperativos heterogéneos → productos<br />Gran grupo → debate y exposición</p>
+<p>TEMPORALIZACIÓN: 5 sesiones.<br /></p>
+<p>SESIÓN 1: Introducción con visionado campaña; Análisis de datos (hambre y guerra)<br />SESIÓN 2: Diseño infografía<br />SESIÓN 3: Guion vídeo Clipmetraje<br />SESIÓN 4: Grabación y edición<br />SESIÓN 5: Presentación + evaluación</p>
+<p>DESCRIPCIÓN DE PRODUCTOS FINALES: <br />- Infografía interactiva: Tema: relación entre hambre y conflictos armados: Basada en datos reales de la web </p>
+<p>- Vídeo para el concurso de<a href="https://www.clipmetrajesmanosunidas.org/categoria-escuelas/"> Clipmetrajes</a><br />Duración breve, con un mensaje social claro que trate sobre la relación hambre–guerra–paz: Posible participación real en el concurso.<br />- Otros productos: Diario de aprendizaje; Presentación oral</p>
+<p>HERRAMIETAS DIGITALES:</p>
+<p>Canva / Genially (infografía)<br />CapCut /Clipchamp (vídeo)<br />OneDrive/ TEAMS (Crear carpeta, compartir y guardar documentos/ Compartir actividades)<br />Web de campaña: <a href="https://alimentalapaz.manosunidas.org/">https://alimentalapaz.manosunidas.org/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777890009974-mhwtwp4tz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">DESCRIPCIÓN: Esta Situación de Aprendizaje se centra en el análisis del hambre en el mundo como consecuencia directa de los conflictos armados, la desigualdad y la pobreza, tomando como referencia la campaña 2026 de Manos Unidas “Declara la guerra al hambre”. El alumnado investigará datos reales, reflexionará sobre las causas estructurales del hambre y elaborará productos digitales de sensibilización social. Se pretende desarrollar una ciudadanía crítica y comprometida con los retos globales.</p>\n<p style=\"text-align: justify;\">ETAPA EDUCATIVA Y NIVEL: 1º Bachillerato<br />ÁREAS, MATERIAS, IMPLICADAS:  Geografía, Historia del Mundo Contemporáneo, Lengua Castellana y Literatura, TIC / Digitalización.<br />AGRUPAMIENTOS Y ORGANIZACIÓN ESPACIAL: Aula ordinaria y aula TIC</p>\n<p>Individual → reflexión inicial<br />Parejas → búsqueda de información<br />Grupos cooperativos heterogéneos → productos<br />Gran grupo → debate y exposición</p>\n<p>TEMPORALIZACIÓN: 5 sesiones.<br /></p>\n<p>SESIÓN 1: Introducción con visionado campaña; Análisis de datos (hambre y guerra)<br />SESIÓN 2: Diseño infografía<br />SESIÓN 3: Guion vídeo Clipmetraje<br />SESIÓN 4: Grabación y edición<br />SESIÓN 5: Presentación + evaluación</p>\n<p>DESCRIPCIÓN DE PRODUCTOS FINALES: <br />- Infografía interactiva: Tema: relación entre hambre y conflictos armados: Basada en datos reales de la web </p>\n<p>- Vídeo para el concurso de<a href=\"https://www.clipmetrajesmanosunidas.org/categoria-escuelas/\"> Clipmetrajes</a><br />Duración breve, con un mensaje social claro que trate sobre la relación hambre–guerra–paz: Posible participación real en el concurso.<br />- Otros productos: Diario de aprendizaje; Presentación oral</p>\n<p>HERRAMIETAS DIGITALES:</p>\n<p>Canva / Genially (infografía)<br />CapCut /Clipchamp (vídeo)<br />OneDrive/ TEAMS (Crear carpeta, compartir y guardar documentos/ Compartir actividades)<br />Web de campaña: <a href=\"https://alimentalapaz.manosunidas.org/\">https://alimentalapaz.manosunidas.org/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777893096359-p2kh27ugz</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777893096359-p2kh27ugz</odePageId>
+      <odeBlockId>block-1777894102012-kl960ytcf</odeBlockId>
+      <blockName>JUSTIFICACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777893096359-p2kh27ugz</odePageId>
+          <odeBlockId>block-1777894102012-kl960ytcf</odeBlockId>
+          <odeIdeviceId>idevice-1777894102010-nnucoi6at</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El hambre no es solo un problema alimentario, sino una consecuencia directa de la desigualdad y los conflictos. Según Manos Unidas, es una “violencia silenciosa” que impide el desarrollo y la paz .</p>
+<p>Impacto esperado:</p>
+<p>Desarrollo de pensamiento crítico<br />Conciencia social<br />Compromiso ético<br /> <br />Relación con ODS:</p>
+<p>ODS 2: Hambre cero<br />ODS 16: Paz, justicia e instituciones sólidas<br />ODS 1: Fin de la pobreza</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777894102010-nnucoi6at","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El hambre no es solo un problema alimentario, sino una consecuencia directa de la desigualdad y los conflictos. Según Manos Unidas, es una “violencia silenciosa” que impide el desarrollo y la paz .</p>\n<p>Impacto esperado:</p>\n<p>Desarrollo de pensamiento crítico<br />Conciencia social<br />Compromiso ético<br /> <br />Relación con ODS:</p>\n<p>ODS 2: Hambre cero<br />ODS 16: Paz, justicia e instituciones sólidas<br />ODS 1: Fin de la pobreza</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777894342965-aamhjadyq</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777894342965-aamhjadyq</odePageId>
+      <odeBlockId>block-1777894352674-xdp2x7hhy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777894342965-aamhjadyq</odePageId>
+          <odeBlockId>block-1777894352674-xdp2x7hhy</odeBlockId>
+          <odeIdeviceId>idevice-1777894352673-yzclar9tw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Competencias clave (descriptores operativos / perfil de salida)</strong><br />Según el currículo de Bachillerato, las competencias clave son los desempeños necesarios para afrontar los retos actuales . En esta SdA se desarrollan principalmente:</p>
+<p><strong>🔹CCL (Competencia en comunicación lingüística):</strong><br />Elaboración de la infografía y guion del vídeo, argumentando con rigor y claridad.<br /><strong>🔹CD (Competencia digital):</strong><br />Uso de herramientas digitales para crear contenidos (infografía y vídeo).<br /><strong>🔹CPSAA (Competencia personal, social y de aprender a aprender):</strong><br />Reflexión ética sobre el hambre y el compromiso personal.<br /><strong>🔹CC (Competencia ciudadana):</strong><br />Análisis crítico de la realidad social (hambre, guerra, desigualdad) y participación responsable.<br /><strong>🔹CE (Competencia emprendedora):</strong><br />Desarrollo de iniciativas de sensibilización social (vídeo Clipmetraje).<br /><strong>🔹CCEC (Conciencia y expresión culturales):</strong><br />Expresión creativa de valores y mensajes éticos a través de productos audiovisuales.<br /> </p>
+<p><strong>Competencias específicas:</strong> El currículo de Religión Católica establece 6 competencias específicas que integran dimensión personal, social y cultural . Para esta SdA se trabajan especialmente:</p>
+<p>Analizar la identidad personal y social desde la antropología cristiana, reconociendo la dignidad de toda persona.<br />Interpretar situaciones de injusticia (hambre, guerra) a la luz del mensaje cristiano y la Doctrina Social de la Iglesia.<br />Desarrollar compromiso social y ético, promoviendo la justicia, la solidaridad y la paz.<br />Dialogar con otras visiones y realidades sociales, respetando la diversidad.<br />Aplicar el mensaje social cristiano a problemas actuales, proponiendo soluciones.<br />Comunicar de forma creativa y crítica valores y propuestas, utilizando medios digitales.<br /> </p>
+<p><strong>Saberes básicos </strong>integran conocimientos, destrezas y actitudes necesarios para desarrollar las competencias. Para esta SdA:</p>
+<p>🔹 Bloque 1: Identidad personal<br />Dignidad humana como imagen de Dios<br />Libertad, responsabilidad y proyecto vital<br />Conciencia ética<br /> <br />🔹 Bloque 2: Dimensión social<br />Justicia social y bien común<br />Doctrina Social de la Iglesia<br />Compromiso con los más vulnerables<br />Cultura de la paz<br /> <br />🔹 Bloque 3: Dimensión cultural y trascendente<br />Relación fe–vida<br />Mensaje de Jesucristo sobre pobreza y justicia<br />Construcción de una sociedad solidaria<br />Cuidado de la “casa común”<br /> <br /><strong>Criterios de evaluación:</strong> nivel de desempeño esperado del alumnado. Adaptados a esta SdA:</p>
+<p>🔹Analizar críticamente el problema del hambre, relacionándolo con conflictos y desigualdad.<br />🔹Interpretar la realidad desde la visión cristiana, identificando valores como la dignidad, la justicia y la paz.<br />🔹Aplicar los principios de la Doctrina Social de la Iglesia a situaciones actuales.<br />🔹Elaborar productos digitales (infografía y vídeo) con rigor, creatividad y sentido ético.<br />🔹Argumentar de forma coherente y fundamentada, utilizando fuentes fiables.<br />🔹Participar activamente en el trabajo cooperativo, mostrando respeto y responsabilidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777894352673-yzclar9tw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Competencias clave (descriptores operativos / perfil de salida)</strong><br />Según el currículo de Bachillerato, las competencias clave son los desempeños necesarios para afrontar los retos actuales . En esta SdA se desarrollan principalmente:</p>\n<p><strong>🔹CCL (Competencia en comunicación lingüística):</strong><br />Elaboración de la infografía y guion del vídeo, argumentando con rigor y claridad.<br /><strong>🔹CD (Competencia digital):</strong><br />Uso de herramientas digitales para crear contenidos (infografía y vídeo).<br /><strong>🔹CPSAA (Competencia personal, social y de aprender a aprender):</strong><br />Reflexión ética sobre el hambre y el compromiso personal.<br /><strong>🔹CC (Competencia ciudadana):</strong><br />Análisis crítico de la realidad social (hambre, guerra, desigualdad) y participación responsable.<br /><strong>🔹CE (Competencia emprendedora):</strong><br />Desarrollo de iniciativas de sensibilización social (vídeo Clipmetraje).<br /><strong>🔹CCEC (Conciencia y expresión culturales):</strong><br />Expresión creativa de valores y mensajes éticos a través de productos audiovisuales.<br /> </p>\n<p><strong>Competencias específicas:</strong> El currículo de Religión Católica establece 6 competencias específicas que integran dimensión personal, social y cultural . Para esta SdA se trabajan especialmente:</p>\n<p>Analizar la identidad personal y social desde la antropología cristiana, reconociendo la dignidad de toda persona.<br />Interpretar situaciones de injusticia (hambre, guerra) a la luz del mensaje cristiano y la Doctrina Social de la Iglesia.<br />Desarrollar compromiso social y ético, promoviendo la justicia, la solidaridad y la paz.<br />Dialogar con otras visiones y realidades sociales, respetando la diversidad.<br />Aplicar el mensaje social cristiano a problemas actuales, proponiendo soluciones.<br />Comunicar de forma creativa y crítica valores y propuestas, utilizando medios digitales.<br /> </p>\n<p><strong>Saberes básicos </strong>integran conocimientos, destrezas y actitudes necesarios para desarrollar las competencias. Para esta SdA:</p>\n<p>🔹 Bloque 1: Identidad personal<br />Dignidad humana como imagen de Dios<br />Libertad, responsabilidad y proyecto vital<br />Conciencia ética<br /> <br />🔹 Bloque 2: Dimensión social<br />Justicia social y bien común<br />Doctrina Social de la Iglesia<br />Compromiso con los más vulnerables<br />Cultura de la paz<br /> <br />🔹 Bloque 3: Dimensión cultural y trascendente<br />Relación fe–vida<br />Mensaje de Jesucristo sobre pobreza y justicia<br />Construcción de una sociedad solidaria<br />Cuidado de la “casa común”<br /> <br /><strong>Criterios de evaluación:</strong> nivel de desempeño esperado del alumnado. Adaptados a esta SdA:</p>\n<p>🔹Analizar críticamente el problema del hambre, relacionándolo con conflictos y desigualdad.<br />🔹Interpretar la realidad desde la visión cristiana, identificando valores como la dignidad, la justicia y la paz.<br />🔹Aplicar los principios de la Doctrina Social de la Iglesia a situaciones actuales.<br />🔹Elaborar productos digitales (infografía y vídeo) con rigor, creatividad y sentido ético.<br />🔹Argumentar de forma coherente y fundamentada, utilizando fuentes fiables.<br />🔹Participar activamente en el trabajo cooperativo, mostrando respeto y responsabilidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777894619270-4s25oxweh</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777894619270-4s25oxweh</odePageId>
+      <odeBlockId>block-1777894622111-l8tgnapak</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777894619270-4s25oxweh</odePageId>
+          <odeBlockId>block-1777894622111-l8tgnapak</odeBlockId>
+          <odeIdeviceId>idevice-1777894622109-kmydyadg2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Aprendizaje Basado en Proyectos (ABP):  </strong>El alumnado aprende investigando y desarrollando un proyecto completo que responde a una pregunta o problema.</p>
+<p>Hay un producto final (infografía, vídeo, exposición…)<br />Se trabaja durante varias sesiones<br />Integra contenidos de distintas áreas<br />El alumnado es protagonista<br />En esta SdA:<br />Crear la infografía + vídeo sobre hambre y guerra. Se aprende haciendo un proyecto real.<br /> <br /><strong>2. Aprendizaje Basado en Retos: </strong>Parte de un reto concreto que hay que resolver.</p>
+<p>Hay un desafío claro<br />Busca impacto real<br />Exige pensamiento crítico<br />En esta SdA:  “¿Cómo podemos sensibilizar a nuestra comunidad sobre la relación entre hambre y guerra?" Se aprende resolviendo un problema real.<br /> <br /><strong> 3. Aprendizaje cooperativo:  </strong>El alumnado trabaja en equipo de forma organizada y con roles, no solo “en grupo”.</p>
+<p>Interdependencia (todos se necesitan)<br />Responsabilidad individual<br />Roles (coordinador/a, portavoz…)<br />Evaluación del grupo</p>
+<p><strong>En esta SdA</strong><br />Un alumno busca datos<br />Otro diseña<br />Otro redacta<br />Otro presenta<br />Se aprende con otros y gracias a otros.<br /> <br /><strong>4. DUA (Diseño Universal para el Aprendizaje): </strong>Con un enfoque que adapta la enseñanza para que todo el alumnado pueda aprender, sin excluir a nadie. Sin ser metodología como las otras, es un marco inclusivo.</p>
+<p> <br /><strong>1. Múltiples formas de representación</strong><br />Diferentes formas de explicar:</p>
+<p>vídeos<br />textos<br />imágenes<br /> <br /><strong>2. Múltiples formas de acción y expresión</strong><br />Diferentes formas de demostrar lo aprendido:</p>
+<p>infografía<br />vídeo<br />presentación<br /> <br /><strong>3. Múltiples formas de implicación</strong></p>
+<p> Motivar de distintas maneras:</p>
+<p>elección de temas<br />trabajo en grupo<br />retos reales<br />Infografía (visual)<br />Vídeo (expresión creativa)<br />Trabajo cooperativo (motivación)<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777894622109-kmydyadg2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Aprendizaje Basado en Proyectos (ABP):  </strong>El alumnado aprende investigando y desarrollando un proyecto completo que responde a una pregunta o problema.</p>\n<p>Hay un producto final (infografía, vídeo, exposición…)<br />Se trabaja durante varias sesiones<br />Integra contenidos de distintas áreas<br />El alumnado es protagonista<br />En esta SdA:<br />Crear la infografía + vídeo sobre hambre y guerra. Se aprende haciendo un proyecto real.<br /> <br /><strong>2. Aprendizaje Basado en Retos: </strong>Parte de un reto concreto que hay que resolver.</p>\n<p>Hay un desafío claro<br />Busca impacto real<br />Exige pensamiento crítico<br />En esta SdA:  “¿Cómo podemos sensibilizar a nuestra comunidad sobre la relación entre hambre y guerra?\" Se aprende resolviendo un problema real.<br /> <br /><strong> 3. Aprendizaje cooperativo:  </strong>El alumnado trabaja en equipo de forma organizada y con roles, no solo “en grupo”.</p>\n<p>Interdependencia (todos se necesitan)<br />Responsabilidad individual<br />Roles (coordinador/a, portavoz…)<br />Evaluación del grupo</p>\n<p><strong>En esta SdA</strong><br />Un alumno busca datos<br />Otro diseña<br />Otro redacta<br />Otro presenta<br />Se aprende con otros y gracias a otros.<br /> <br /><strong>4. DUA (Diseño Universal para el Aprendizaje): </strong>Con un enfoque que adapta la enseñanza para que todo el alumnado pueda aprender, sin excluir a nadie. Sin ser metodología como las otras, es un marco inclusivo.</p>\n<p> <br /><strong>1. Múltiples formas de representación</strong><br />Diferentes formas de explicar:</p>\n<p>vídeos<br />textos<br />imágenes<br /> <br /><strong>2. Múltiples formas de acción y expresión</strong><br />Diferentes formas de demostrar lo aprendido:</p>\n<p>infografía<br />vídeo<br />presentación<br /> <br /><strong>3. Múltiples formas de implicación</strong></p>\n<p> Motivar de distintas maneras:</p>\n<p>elección de temas<br />trabajo en grupo<br />retos reales<br />Infografía (visual)<br />Vídeo (expresión creativa)<br />Trabajo cooperativo (motivación)<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777895350657-njdx6cahb</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y los programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y los programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777895350657-njdx6cahb</odePageId>
+      <odeBlockId>block-1777895353649-937oizzvz</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777895350657-njdx6cahb</odePageId>
+          <odeBlockId>block-1777895353649-937oizzvz</odeBlockId>
+          <odeIdeviceId>idevice-1777895353647-5hxud07yx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje se vincula de manera directa con distintos planes y programas del centro:</p>
+<p><strong>PLEI (Plan de Lectura, Escritura e Investigación):</strong><br />El alumnado desarrolla habilidades de búsqueda, selección y análisis crítico de información a partir de fuentes reales, así como la producción de textos propios mediante la elaboración de la infografía y el guion del vídeo.<br /><strong>PAD (Plan de Atención a la Diversidad):</strong><br />Se incorporan medidas basadas en el enfoque DUA, favoreciendo la inclusión mediante diferentes formas de acceso a la información, expresión y participación, así como el trabajo cooperativo en grupos heterogéneos.<br /><strong>Plan Digitalización:</strong><br />Se fomenta la competencia digital a través del uso de herramientas como Canva, Genially o aplicaciones de edición de vídeo, promoviendo la creación de contenidos digitales significativos.<br /><strong>Red de escuelas UNESCO: </strong>La SdA se vincula con iniciativas solidarias mediante el análisis y difusión de la campaña de Manos Unidas, fomentando la conciencia social y el compromiso del alumnado con la justicia y la paz.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777895353647-5hxud07yx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje se vincula de manera directa con distintos planes y programas del centro:</p>\n<p><strong>PLEI (Plan de Lectura, Escritura e Investigación):</strong><br />El alumnado desarrolla habilidades de búsqueda, selección y análisis crítico de información a partir de fuentes reales, así como la producción de textos propios mediante la elaboración de la infografía y el guion del vídeo.<br /><strong>PAD (Plan de Atención a la Diversidad):</strong><br />Se incorporan medidas basadas en el enfoque DUA, favoreciendo la inclusión mediante diferentes formas de acceso a la información, expresión y participación, así como el trabajo cooperativo en grupos heterogéneos.<br /><strong>Plan Digitalización:</strong><br />Se fomenta la competencia digital a través del uso de herramientas como Canva, Genially o aplicaciones de edición de vídeo, promoviendo la creación de contenidos digitales significativos.<br /><strong>Red de escuelas UNESCO: </strong>La SdA se vincula con iniciativas solidarias mediante el análisis y difusión de la campaña de Manos Unidas, fomentando la conciencia social y el compromiso del alumnado con la justicia y la paz.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777895675082-ecay0o3zr</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777895675082-ecay0o3zr</odePageId>
+      <odeBlockId>block-1777895677084-jn2t9idfq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777895675082-ecay0o3zr</odePageId>
+          <odeBlockId>block-1777895677084-jn2t9idfq</odeBlockId>
+          <odeIdeviceId>idevice-1777895677082-soj9sn11m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777895677082-soj9sn11m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777895675082-ecay0o3zr</odePageId>
+      <odeBlockId>block-1777898285708-ydi4u5flf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777895675082-ecay0o3zr</odePageId>
+          <odeBlockId>block-1777898285708-ydi4u5flf</odeBlockId>
+          <odeIdeviceId>idevice-1777898285705-o6xjx1y1q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La presente Situación de Aprendizaje se enriquece mediante la incorporación de actividades complementarias que conectan el aprendizaje con la realidad social y favorecen el compromiso del alumnado:</p>
+<p><strong>Participación en la campaña solidaria de Manos Unidas:</strong><br />El alumnado conocerá de primera mano la campaña anual, reflexionando sobre el hambre, la pobreza y los conflictos desde una perspectiva ética y cristiana.<br /><strong>Mesa redonda con miembros de Manos Unidas:</strong><br />Se organizará un encuentro en el centro educativo con personas voluntarias o colaboradoras de la organización. Durante esta actividad, se dará a conocer su labor, la campaña vigente y los proyectos que desarrollan en distintos países.<br />El alumnado podrá formular preguntas, dialogar y contrastar la información trabajada en el aula con testimonios reales, favoreciendo una comprensión más profunda y crítica.<br /><strong>Difusión de los productos elaborados:</strong><br />Los vídeos y las infografías creadas por el alumnado se compartirán en el centro (pantallas, web, redes educativas o exposiciones), con el objetivo de sensibilizar a la comunidad educativa.<br /><strong>Participación en el concurso de Clipmetrajes de Manos Unidas:</strong><br />El alumnado podrá presentar sus vídeos al concurso, fomentando la creatividad, el compromiso social y la proyección externa del trabajo realizado. El vídeo será promocionado y difundido por el alumnado empleando redes sociales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777898285705-o6xjx1y1q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La presente Situación de Aprendizaje se enriquece mediante la incorporación de actividades complementarias que conectan el aprendizaje con la realidad social y favorecen el compromiso del alumnado:</p>\n<p><strong>Participación en la campaña solidaria de Manos Unidas:</strong><br />El alumnado conocerá de primera mano la campaña anual, reflexionando sobre el hambre, la pobreza y los conflictos desde una perspectiva ética y cristiana.<br /><strong>Mesa redonda con miembros de Manos Unidas:</strong><br />Se organizará un encuentro en el centro educativo con personas voluntarias o colaboradoras de la organización. Durante esta actividad, se dará a conocer su labor, la campaña vigente y los proyectos que desarrollan en distintos países.<br />El alumnado podrá formular preguntas, dialogar y contrastar la información trabajada en el aula con testimonios reales, favoreciendo una comprensión más profunda y crítica.<br /><strong>Difusión de los productos elaborados:</strong><br />Los vídeos y las infografías creadas por el alumnado se compartirán en el centro (pantallas, web, redes educativas o exposiciones), con el objetivo de sensibilizar a la comunidad educativa.<br /><strong>Participación en el concurso de Clipmetrajes de Manos Unidas:</strong><br />El alumnado podrá presentar sus vídeos al concurso, fomentando la creatividad, el compromiso social y la proyección externa del trabajo realizado. El vídeo será promocionado y difundido por el alumnado empleando redes sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777898830266-2m80xotw9</odePageId>
+  <odeParentPageId>page-mor1swhx-43wr7tj3c</odeParentPageId>
+  <pageName>6. Incluye la atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Incluye la atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777898830266-2m80xotw9</odePageId>
+      <odeBlockId>block-1777899576502-t5y0i6kux</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777898830266-2m80xotw9</odePageId>
+          <odeBlockId>block-1777899576502-t5y0i6kux</odeBlockId>
+          <odeIdeviceId>idevice-1777899576498-9tjra4ht3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ALIMENTA LA PAZ</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta Situación de Aprendizaje para 1º de Bachillerato en la asignatura de Religión. Se centra en el análisis del hambre en el mundo como consecuencia directa de los conflictos armados, la desigualdad y la pobreza, tomando como referencia la campaña 2026 de Manos Unidas “Declara la guerra al hambre”.
+El alumnado investigará datos reales, reflexionará sobre las causas estructurales del hambre y elaborará productos digitales de sensibilización social. Se pretende desarrollar una ciudadanía crítica y comprometida con los retos globales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Eva María López Fernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
